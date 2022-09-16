@@ -1,4 +1,6 @@
-### <div align="center">I'm Guillaume, a full-time front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+<h1 align="center">Hi 👋, I'm Guillaume alias Douwdy</h1>
+
+### <div align="center">A full-time front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
 - 🔭 I’m currently working on [Les perso noirs de fever](https://github.com/Douwdy/Les-persos-noir-de-fever)  
