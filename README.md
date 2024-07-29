@@ -3,13 +3,13 @@
 ### <div align="center">A full-time front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [Les perso noirs de fever](https://github.com/Douwdy/Les-persos-noir-de-fever)  
+- 🔭 I’m currently working on Refsco81
   
 
 - 🌱 I’m currently learning React  
   
 
-- 👨‍💻 All of my projects are available at [Slashend.fr](https://slashend.fr/)  
+- 👨‍💻 All of my projects are available at [Slashend.fr](https://slashend.yn.lu/)  
   
 
 - 📫 How to reach me guillaumelamarque7@gmail.com  
