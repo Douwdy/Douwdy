@@ -3,7 +3,7 @@
 ### <div align="center">A full-time front-end freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on Skyblock Mayors
+- 🔭 I’m currently working on my Portfolio
   
 
 - 🌱 I’m currently learning React  
