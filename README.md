@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning React  
   
 
-- 👨‍💻 All of my projects are available at [Slashend.ovh](https://slashend.ovh)  
+- 👨‍💻 All of my projects are available at [Slashend.fr](https://slashend.fr)  
   
 
 - 📫 How to reach me guillaumelamarque7@gmail.com  
